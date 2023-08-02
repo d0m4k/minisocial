@@ -1,0 +1,1 @@
+web: wegunicon wsgi:app
